@@ -1,0 +1,16 @@
+{
+  "name": "escalater",
+  "version": "1.0.0",
+  "description": "Escalate incident reports to team owners now or later. ",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shirley",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "^0.5.3",
+    "sqlite3": "^3.1.8"
+  }
+}
