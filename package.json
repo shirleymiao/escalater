@@ -10,6 +10,9 @@
   "author": "shirley",
   "license": "MIT",
   "dependencies": {
+    "@slack/client": "^3.8.1",
+    "express": "^4.14.1",
+    "slack-events-listener": "^1.1.0",
     "slackbots": "^0.5.3",
     "sqlite3": "^3.1.8"
   }
