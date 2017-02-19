@@ -3,3 +3,5 @@
 /lib/.ENV
 /data
 npm-debug.log
+app.yaml
+google-cloud-sdk/
