@@ -2,13 +2,16 @@
   "name": "escalater",
   "version": "1.0.0",
   "description": "Escalate incident reports to team owners now or later. ",
-  "main": "index.js",
+  "main": "app.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shirley",
   "license": "MIT",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
   "dependencies": {
     "@slack/client": "^3.8.1",
     "express": "^4.14.1",
